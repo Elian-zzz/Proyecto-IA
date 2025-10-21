@@ -1,0 +1,36 @@
+lunes|12:30 Ingles - Monica Garcia
+lunes|13:15 Ingles - Monica Garcia
+lunes|14:00 Filosofia - Damian Baccino
+lunes|14:55 Filosofia - Damian Baccino
+lunes|15:40 Ingenieria de Software - Brandon Cairus
+lunes|16:25 Ingenieria de Software - Brandon Cairus
+lunes|17:15 Ingenieria de Software - Brandon Cairus
+lunes|18:00 Ingenieria de Software - Brandon Cairus
+martes|13:15 Sociologia - Bertha Vargas
+martes|14:45 Sociologia - Bertha Vargas
+martes|14:55 AC Inteligencia Artificial - Brandon Cairus
+martes|15:40 AC Inteligencia Artificial - Brandon Cairus
+martes|16:25 Programacion Full Stack - Gabriel Vazquez
+martes|17:15 Programacion Full Stack - Gabriel Vazquez
+martes|18:00 Fisica Mecanica Clasica - Veronica Otamendi
+miercoles|14:55  Filosofia - Damian Baccino
+miercoles|15:40 Emprendedurismo y gestion - nadie
+miercoles|16:25 Emprendedurismo y gestion - nadie
+miercoles|17:15 Matematica CTS - Carlos Molina
+miercoles|18:00 Matematica CTS - Carlos Molina
+jueves|12:30 Sociologia - Bertha Vargas
+jueves|13:15 Programacion Full Stack - Gabriel Vazquez
+jueves|14:00 Programacion Full Stack - Gabriel Vazquez
+jueves|14:55 Programacion Full Stack - Gabriel Vazquez
+jueves|15:40 Fisica - Veronica Otamendi
+jueves|16:25 Fisica - Veronica Otamendi
+jueves|17:15 Ingles - Monica Garcia
+jueves|18:00 Ingles - Monica Garcia
+viernes|12:30 Matematica CTS - Carlos Molina
+viernes|13:15 Tutoria de Proyecto UTU-Lab - Agustin Argain
+viernes|14:00 Tutoria de Proyecto UTU-Lab - Agustin Argain
+viernes|14:55 Administracion de Sistemas Operativos - Santiago Martinez
+viernes|15:40 Administracion de Sistemas Operativos - Santiago Martinez
+viernes|16:25 Administracion de Sistemas Operativos - Santiago Martinez
+viernes|17:15 Calculo - Carlos Molina
+viernes|18:00 Calculo - Carlos Molina
